@@ -4,4 +4,4 @@
 * I write a report so please feel free to know more about the ideas/algorithms of this project from that.
 
 
-   ![alt text](https://github.com/YuzhouGuo/Pentago-Swap/blob/master/screenshot.png)
+   ![alt text](https://github.com/YuzhouGuo/Pentago-Swap/master/screenshot.png)
