@@ -7,4 +7,4 @@
    ![alt text](https://github.com/YuzhouGuo/Pentago-Swap/screenshot.png)
 
 
-   ![alt text](https://github.com/YuzhouGuo/Roll_A_Ball/blob/master/gameTrying.png)
+   ![alt text](https://github.com/YuzhouGuo/Pentago-Swap/blob/master/screenshot.png)
